@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://soinikghosh9.github.io/personal-website/sitemap.xml
